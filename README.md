@@ -4,7 +4,7 @@ Learning AI for 25 days to understand the fundamentals and how AI works.
 
 ## This Week — AI Fundamentals (Days 1-7)
 
-- [ ] Day 1: What is Artificial Intelligence?
+- [x] Day 1: What is Artificial Intelligence?
 - [ ] Day 2: AI vs Machine Learning vs Deep Learning
 - [ ] Day 3: How Machine Learning Works
 - [ ] Day 4: Types of Machine Learning
