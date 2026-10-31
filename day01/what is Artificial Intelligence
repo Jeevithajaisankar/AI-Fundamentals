@@ -1,0 +1,55 @@
+# Day 1 – Introduction to Artificial Intelligence (AI)
+
+## 1. What is AI?
+Artificial Intelligence (AI) is a technology that enables computers to perform tasks that normally require human intelligence, such as learning, problem-solving and decision-making.
+
+**Examples:** ChatGPT, Siri, Google Assistant.
+
+## 2. Real-World Applications
+- **Netflix:** Recommends movies based on interests.
+- **Face Unlock:** Recognizes faces.
+- **Google Maps:** Predicts traffic and suggests routes.
+- **ChatGPT:** Understands questions and generates answers.
+
+## 3. How Does AI Work?
+AI learns patterns from data and uses them to make predictions.
+
+**Example: Cat Recognition**
+1. Collect pictures of cats.
+2. Train the computer using those pictures.
+3. Learn patterns like eyes, ears and face shape.
+4. Predict whether a new picture contains a cat.
+
+## 4. Traditional Programming vs AI
+
+| Traditional Programming | AI |
+|---|---|
+| Follows predefined rules. | Learns patterns from data. |
+| Humans write the rules. | Uses training to learn patterns. |
+| Example: Fixed spam rules. | Example: Learning to detect spam emails. |
+
+## 5. Applications of AI
+- Healthcare – Medical image analysis.
+- Banking – Fraud detection.
+- Agriculture – Crop monitoring.
+- Education – Personalized learning.
+- Transportation – Driver assistance.
+
+## 6. Important Terminologies
+
+| Term | Meaning |
+| Data - Information given to a computer. 
+| Algorithm - Steps to solve a problem. 
+| Model - A system trained to learn patterns. 
+| Training - Teaching a model using data. 
+| Prediction - Output given by a model. 
+
+## 7. Key Takeaways
+- AI helps machines perform intelligent tasks.
+- AI learns patterns from data.
+- Machine Learning is a part of AI.
+- AI is used in many real-world applications.
+
+**Day 1 Status:** Completed ✅
+
+
