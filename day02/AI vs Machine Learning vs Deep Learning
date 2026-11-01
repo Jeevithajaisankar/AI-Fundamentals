@@ -1,0 +1,32 @@
+## Day 2 – AI vs Machine Learning vs Deep Learning
+
+### 1. Artificial Intelligence (AI)
+AI enables computers to perform tasks that normally require human intelligence.
+
+**Example:** ChatGPT, Siri.
+
+### 2. Machine Learning (ML)
+ML is a subset of AI that allows computers to learn patterns from data and make predictions.
+
+**Example:** Spam email detection.
+
+### 3. Deep Learning (DL)
+DL is a subset of ML that uses artificial neural networks to learn complex patterns.
+
+**Example:** Facial recognition and voice recognition.
+
+### 4. Relationship
+
+**Deep Learning ⊂ Machine Learning ⊂ Artificial Intelligence**
+
+- AI is the broad field.
+- ML is a part of AI.
+- DL is a part of ML.
+
+### 5. Key Takeaways
+- AI makes machines perform intelligent tasks.
+- ML helps machines learn from data.
+- DL uses neural networks to learn complex patterns.
+- All three are connected but have different meanings.
+
+**Day 2 Status:** Completed ✅
