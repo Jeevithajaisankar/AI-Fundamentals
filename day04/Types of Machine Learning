@@ -1,0 +1,35 @@
+## Day 4 – Types of Machine Learning
+
+Machine Learning is mainly divided into three types:
+
+### 1. Supervised Learning
+Learns from labelled data (data with correct answers).
+
+**Example:** Spam email detection and house price prediction.
+
+### 2. Unsupervised Learning
+Learns from unlabelled data and finds hidden patterns or groups.
+
+**Example:** Customer grouping.
+
+### 3. Reinforcement Learning
+Learns by taking actions and receiving rewards or penalties.
+
+**Example:** Game-playing AI and robot navigation.
+
+### 4. Difference Between Them
+
+| Type | Learning Method |
+|---|---|
+| Supervised - Labelled data.
+| Unsupervised - Unlabelled data.
+| Reinforcement - Rewards and penalties.
+
+### 5. Key Takeaways
+- Supervised Learning learns with correct answers.
+- Unsupervised Learning discovers patterns on its own.
+- Reinforcement Learning learns through actions and feedback.
+
+**Day 4 Status:** Completed ✅
+
+
