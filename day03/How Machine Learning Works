@@ -1,0 +1,42 @@
+## Day 3 – How Machine Learning Works
+
+### 1. What is Machine Learning?
+Machine Learning is a part of AI that allows computers to learn patterns from data and make predictions.
+
+### 2. Steps in Machine Learning
+1. **Data Collection:** Collect information.
+2. **Data Preparation:** Clean and organize data.
+3. **Training:** Teach the model using data.
+4. **Testing:** Check the model using unseen data.
+5. **Prediction:** Generate results using the trained model.
+
+### 3. Training vs Testing
+- **Training:** Helps the model learn patterns from data.
+- **Testing:** Checks how well the model performs on new data.
+
+### 4. What is a Model?
+A model is a trained computer system that learns patterns from data and uses them to make predictions or decisions.
+
+**Example:** A house price prediction model estimates house prices based on house size and other information.
+
+### 5. Important Terminologies
+
+| Term | Meaning |
+|---|---|
+| Dataset - Collection of information.
+| Training Data - Data used for learning.
+| Testing Data - Data used for evaluation.
+| Algorithm - Method used to learn.
+| Model - Trained system.
+| Prediction - Output produced by a model.
+| Accuracy - How often predictions are correct.
+
+### 6. Key Takeaways
+- Machine Learning learns from data.
+- Training helps models learn patterns.
+- Testing evaluates model performance.
+- Trained models make predictions on new data.
+
+**Day 3 Status:** Completed ✅
+
+
