@@ -6,7 +6,7 @@ Learning AI for 25 days to understand the fundamentals and how AI works.
 
 - [x] Day 1: What is Artificial Intelligence?
 - [x] Day 2: AI vs Machine Learning vs Deep Learning
-- [ ] Day 3: How Machine Learning Works
+- [x] Day 3: How Machine Learning Works
 - [ ] Day 4: Types of Machine Learning
 - [ ] Day 5: Supervised Learning
 - [ ] Day 6: Unsupervised Learning
