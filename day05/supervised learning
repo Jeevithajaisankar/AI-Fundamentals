@@ -1,0 +1,40 @@
+# Day 5 – Supervised Learning
+
+## What is Supervised Learning?
+Supervised Learning is a type of Machine Learning where computers learn from **labelled data** (data with correct answers).
+
+**Example:** Teaching a computer to identify cats and dogs using labelled images.
+
+## Types of Supervised Learning
+
+### 1. Classification
+Predicts categories or groups.
+
+Examples:
+- Spam or Not Spam
+- Cat or Dog
+- Pass or Fail
+
+### 2. Regression
+Predicts numerical values.
+
+Examples:
+- House price prediction
+- Temperature prediction
+- Salary prediction
+
+## Classification vs Regression
+
+| Classification | Regression |
+|---|---|
+| Predicts categories | Predicts numbers |
+| Spam / Not Spam | House price |
+| Cat / Dog | Salary |
+
+## Key Takeaways
+- Supervised Learning uses labelled data.
+- Classification predicts categories.
+- Regression predicts numerical values.
+- The model learns from training data and predicts new results.
+
+**Status:** Day 5 – Completed ✅
