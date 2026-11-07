@@ -1,0 +1,43 @@
+# Day 7 – Reinforcement Learning
+
+## What is Reinforcement Learning?
+Reinforcement Learning is a type of Machine Learning where a computer learns by taking actions and receiving **rewards or penalties**.
+
+It learns through trial and error.
+
+**Example:** A robot learns to reach a destination by receiving rewards for correct movements and penalties for wrong movements.
+
+## How It Works
+1. Agent – The learner.
+2. Environment – The surroundings.
+3. Action – The agent performs an action.
+4. Reward or Penalty – The agent receives feedback and learns.
+
+## Important Terms
+- **Agent:** The learner.
+- **Environment:** The surroundings where the agent operates.
+- **Action:** What the agent does.
+- **Reward:** Positive feedback.
+- **Penalty:** Negative feedback.
+- **Policy:** Strategy used to choose actions.
+
+## Real-world Applications
+- Game-playing AI.
+- Robotics.
+- Autonomous systems.
+- Robot navigation.
+
+## Three Types of Machine Learning
+
+| Type | How it learns |
+|---|---|
+| Supervised | Labelled data |
+| Unsupervised | Unlabelled data |
+| Reinforcement | Rewards and penalties |
+
+## Key Takeaways
+- Reinforcement Learning learns through trial and error.
+- It uses rewards and penalties.
+- The agent improves its actions through feedback.
+
+**Status:** Day 7 - Completed
