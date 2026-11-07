@@ -1,0 +1,46 @@
+# Day 6 – Unsupervised Learning
+
+## What is Unsupervised Learning?
+Unsupervised Learning is a type of Machine Learning where computers learn from **unlabelled data** (data without predefined answers).
+
+The model finds hidden patterns and groups in the data by itself.
+
+**Example:** Grouping customers based on their shopping habits.
+
+## Important Techniques
+
+### 1. Clustering
+Groups similar data together.
+
+Examples:
+- Grouping customers by interests.
+- Grouping similar images.
+- Grouping news articles by topic.
+
+### 2. Association
+Finds relationships between items.
+
+**Example:** Customers who buy bread may also buy butter.
+
+## Real-world Applications
+- Customer segmentation.
+- Shopping recommendations.
+- Identifying unusual transaction patterns.
+- Analysing customer behaviour.
+
+## Supervised vs Unsupervised Learning
+
+| Supervised | Unsupervised |
+|---|---|
+| Labelled data | Unlabelled data |
+| Learns from correct answers | Finds patterns |
+| Classification and Regression | Clustering and Association |
+
+## Key Takeaways
+- Unsupervised Learning uses unlabelled data.
+- It discovers hidden patterns.
+- Clustering groups similar data.
+- Association finds relationships between items.
+
+**Status:** Day 6 – Completed ✅
+
