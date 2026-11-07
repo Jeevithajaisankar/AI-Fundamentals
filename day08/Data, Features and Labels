@@ -1,0 +1,43 @@
+# Day 8 – Data, Features and Labels
+
+## 1. What is Data?
+Data is a collection of information used by computers to learn and make predictions.
+
+**Examples:** Student marks, house prices, images and customer details.
+
+## 2. What are Features?
+Features are the input details or characteristics used by a Machine Learning model to make predictions.
+
+**Example:** In student result prediction:
+- Study Hours
+- Attendance
+- Previous Marks
+
+## 3. What are Labels?
+Labels are the correct answers or outputs that the model learns to predict.
+
+**Example:** Pass or Fail.
+
+## 4. Features vs Labels
+
+| Features | Labels |
+|---|---|
+| Input information | Correct output |
+| Helps make predictions | What we want to predict |
+| Study hours, attendance | Pass or Fail |
+
+## 5. Important Terms
+- **Dataset:** Collection of information.
+- **Features:** Input variables.
+- **Labels:** Correct answers in labelled training data.
+- **Input:** Information given to the model.
+- **Output:** Predicted result.
+
+## Key Takeaways
+- Data is used to train Machine Learning models.
+- Features are the input details.
+- Labels are the expected answers.
+- Models learn relationships between features and labels.
+
+**Status:** Day 8 – Completed ✅
+
