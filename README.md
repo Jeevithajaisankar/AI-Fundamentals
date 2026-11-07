@@ -14,7 +14,7 @@ Learning AI for 25 days to understand the fundamentals and how AI works.
 
 ## Coming Up
 
-- [ ] Day 8: Data, Features & Labels
+- [x] Day 8: Data, Features & Labels
 - [ ] Day 9: Training, Testing & Prediction
 - [ ] Day 10: Machine Learning Algorithms — Basic Idea
 - [ ] Day 11: Neural Networks
